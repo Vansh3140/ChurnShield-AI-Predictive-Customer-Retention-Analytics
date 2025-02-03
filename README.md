@@ -1,7 +1,4 @@
 # ChurnShield-AI: Customer Churn Prediction App
-
-![Demo](https://via.placeholder.com/800x400.png?text=Streamlit+App+Demo+Video/GIF)  
-
 A machine learning-powered Streamlit application to predict customer churn probability for businesses. Built with TensorFlow, scikit-learn, and Streamlit.
 
 ---
@@ -15,7 +12,6 @@ A machine learning-powered Streamlit application to predict customer churn proba
 - [Data Preprocessing](#data-preprocessing)
 - [Model Details](#model-details)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
