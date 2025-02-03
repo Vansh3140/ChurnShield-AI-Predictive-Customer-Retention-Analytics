@@ -49,8 +49,7 @@ Customer churn prediction is critical for businesses to retain clients. This app
 ## 📥 Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ChurnShield-AI.git
-   cd ChurnShield-AI
+   git clone https://github.com/Vansh3140/ChurnShield-AI-Predictive-Customer-Retention-Analytics.git
    ```
 
 2. **Install dependencies**:
@@ -71,7 +70,6 @@ Customer churn prediction is critical for businesses to retain clients. This app
    ```
 
 2. Fill in customer details:  
-   ![Input Form](https://via.placeholder.com/600x300.png?text=Input+Form+Screenshot)
 
 3. Get instant predictions:  
    - Churn probability percentage
@@ -105,20 +103,14 @@ Customer churn prediction is critical for businesses to retain clients. This app
 
 ---
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for details.
-
----
-
 ## 🙏 Acknowledgments
-- Dataset inspiration: [Kaggle Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Streamlit community for UI components
 - TensorFlow/scikit-learn documentation
 
 ---
 
 **⭐ Star this repo if you find it useful!**  
-**🐛 Report issues in the [GitHub Issues](https://github.com/yourusername/ChurnShield-AI/issues) section.**
+**🐛 Report issues in the [GitHub Issues](https://github.com/Vansh3140/ChurnShield-AI-Predictive-Customer-Retention-Analytics.git) section.**
 
 ---
 
